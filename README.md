@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ryan Miller and I'm a .NET Developer and occasional IT Manager, from the DFW area.</h2>
+<h2 align="left">Hi 👋! My name is Ryan Miller and I'm a .NET Developer from the DFW area.</h2>
 
 ###
 
